@@ -1,6 +1,7 @@
 # Django Starter
 
 **Django** starter built with [Rocket Generator](https://app-generator.dev/). Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
+> 👉 [Deployment-Ready for Azure](https://deploypro.dev/) via `DeployPRO` service (read the [DOCS](https://docs.app-generator.dev/deployment/django-azure)) 
 
 <br />
 
